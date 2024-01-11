@@ -12,3 +12,4 @@ char *s21_strchr(const char *str, int c) {
 
   return (char *)c_position;
 }
+

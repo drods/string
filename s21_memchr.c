@@ -10,3 +10,4 @@ void *s21_memchr(const void *ptr, int ch, s21_size_t n) {
   }
   return found_byte;
 }
+

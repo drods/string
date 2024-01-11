@@ -10,3 +10,4 @@ char *s21_strcpy(char *dest, const char *src) {
   }
   return dest;
 }
+

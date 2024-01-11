@@ -11649,3 +11649,4 @@ Suite *s21_sprintf_suite_o(void) {
   suite_add_tcase(s, tc);
   return s;
 }
+

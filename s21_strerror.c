@@ -63,3 +63,4 @@ char *s21_strerror(int errnum) {
   }
   return result_error;
 }
+

@@ -14,3 +14,4 @@ char *s21_strrchr(const char *str, int c) {
   }
   return res;
 }
+

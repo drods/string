@@ -3618,3 +3618,4 @@ int main() {
   case_test(s21_trim_suite(), &fail);
   case_test(s21_insert_suite(), &fail);
 }
+

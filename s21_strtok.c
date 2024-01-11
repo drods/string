@@ -20,3 +20,4 @@ char *s21_strtok(char *str, const char *delim) {
   }
   return start;
 }
+
